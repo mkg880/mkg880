@@ -45,7 +45,6 @@ I love working in **small, fast-moving teams** where I can take ownership end-to
 <p>
   <a href="mailto:gandhimehrzad@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mehrzad-gandhi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/mkg880" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 [![](https://komarev.com/ghpvc/?username=mkg880&color=blue&label=Profile%20Views)](https://github.com/mkg880)  

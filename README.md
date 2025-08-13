@@ -1,6 +1,6 @@
-## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-I’m **Mehrzad Gandhi** — a recent CS graduate from Purdue 🎓 (Math minor 📐), passionate about **building fast, scalable, and impactful tech**.  
+I’m **Mehrzad Gandhi** — a recent CS graduate from Purdue 🎓 (Math minor 📐), and current intern at MelioLabs. I'm passionate about **building fast, scalable, and impactful tech**.  
 
 I’ve worked across **AI/ML**, **full-stack engineering**, **data science**, and **embedded systems** — from **NASA spacecraft telemetry** 🛰 to **microscopy image pipelines** 🧫 and **LLM-powered search tools** 🤖.  
 
@@ -8,10 +8,10 @@ I love working in **small, fast-moving teams** where I can take ownership end-to
 
 ---
 
-**💡 Highlights:**  
+**💡 Highlights from my internships and projects:**  
 - **MelioLabs:** 5× faster microscopy cell counting, +20% clustering accuracy, researcher-friendly annotation tools.  
 - **Union Pacific:** RAG with semantic chunking on 10k+ pages, chatbot reducing search from hours → seconds.  
-- **NASA Goddard:** Real-time spacecraft telemetry dashboards, automated satellite data pipelines.  
+- **NASA:** Real-time spacecraft telemetry dashboards, automated satellite data pipelines.  
 - **Capstone:** Automated vulnerability detection pipeline with LLMs + binary diffing, serverless & event-driven.  
 
 ---

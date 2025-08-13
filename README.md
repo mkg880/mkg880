@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-I’m **Mehrzad Gandhi** — a senior CS student at Purdue 🎓 (Math minor 📐), passionate about **building fast, scalable, and impactful tech**.  
+I’m **Mehrzad Gandhi** — a recent CS graduate from Purdue 🎓 (Math minor 📐), passionate about **building fast, scalable, and impactful tech**.  
 
 I’ve worked across **AI/ML**, **full-stack engineering**, **data science**, and **embedded systems** — from **NASA spacecraft telemetry** 🛰 to **microscopy image pipelines** 🧫 and **LLM-powered search tools** 🤖.  
 
